@@ -19,6 +19,8 @@ To refresh migrations `php artisan migrate:fresh`
 
 To seed database `php artisan db:seed`
 
+To generate application key `php artisan key:generate`
+
 To compile files `npm run dev`
 
 To start server `php artisan serve`
