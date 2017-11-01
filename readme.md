@@ -19,8 +19,8 @@ To refresh migrations `php artisan migrate:fresh`
 
 To seed database `php artisan db:seed`
 
+To compile files `npm run dev`
+
 To start server `php artisan serve`
 
 To clear autoload files `composer dump-autoload`
-
-To compile files `npm run dev`
